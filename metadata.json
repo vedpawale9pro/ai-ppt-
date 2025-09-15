@@ -1,0 +1,5 @@
+{
+  "name": "AI Presentation Builder",
+  "description": "An AI-powered application to generate and edit presentations. Simply provide a topic, and let Gemini API create your slides, which you can then edit, style, and export to PPTX, JSON, or PDF.",
+  "requestFramePermissions": []
+}
